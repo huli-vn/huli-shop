@@ -808,6 +808,12 @@ body {
   .hero-title { font-size: 2rem; }
   .modal-content { max-width: 95vw; }
   .video-list { grid-template-columns: 1fr;}
+  .hero-video-bg {
+    display: none !important;
+  }
+  .hero-section {
+    background: url('images/hello.jpg') center center/cover no-repeat #222;
+  }
 }
 footer {
     text-align: center;
