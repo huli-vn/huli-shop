@@ -5,21 +5,21 @@ const products = [
         name: "Quần dài Huli",
         description: "Quần dài co giãn, năng động.",
         price: 450000,
-        image: "https://i.imgur.com/0y8Ftya.png",
+        image: "images/behold.jpg",
         group: "Quần dài",
         details: "Chất liệu: Denim co giãn, phù hợp cho mọi hoạt động.",
         quantityDetails: {
-            "Trắng": {XL: 10, XXL: 15, XXXL: 8},
-            "Đen": {XL: 5, XXL: 12, XXXL: 9},
-            "Nâu": {XL: 2, XXL: 4, XXXL: 6},
-            "Xanh navy": {XL: 6, XXL: 7, XXXL: 5}
+            "Trắng": {XL: 100, XXL: 100, XXXL: 100},
+            "Đen": {XL: 100, XXL: 100, XXXL: 100},
+            "Nâu": {XL: 100, XXL: 100, XXXL: 100},
+            "Xanh navy": {XL: 100, XXL: 100, XXXL: 100}
         },
-        quantity: 15,
+        quantity: 100,
         images: [
-            "https://i.imgur.com/0y8Ftya.png",
-            "https://i.imgur.com/W6XvY3R.jpg",
-            "https://i.imgur.com/dwZ5uBV.jpg",
-            "https://i.imgur.com/3dD2I7w.jpg"
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg"
         ],
         colors: [
             { name: "Trắng", code: "#f3f3f3" },
@@ -36,20 +36,20 @@ const products = [
         name: "Quần dài Huli",
         description: "Quần dài lịch sự, công sở.",
         price: 520000,
-        image: "https://i.imgur.com/fzB6sJp.png",
+        image: "images/behold.jpg",
         group: "Quần dài",
         details: "Chất liệu: Kaki cao cấp, form chuẩn.",
         quantityDetails: {
-            "Đen": {XL: 3, XXL: 7, XXXL: 2},
-            "Xám": {XL: 4, XXL: 6, XXXL: 5},
-            "Nâu": {XL: 2, XXL: 3, XXXL: 2}
+            "Đen": {XL: 100, XXL: 100, XXXL: 100},
+            "Xám": {XL: 100, XXL: 100, XXXL: 100},
+            "Nâu": {XL: 100, XXL: 100, XXXL: 100}
         },
-        quantity: 7,
+        quantity: 100,
         images: [
-            "https://i.imgur.com/fzB6sJp.png",
-            "https://i.imgur.com/Jx8BfG2.jpg",
-            "https://i.imgur.com/7Wm5QoF.jpg",
-            "https://i.imgur.com/iI1rM4U.jpg"
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg"
         ],
         colors: [
             { name: "Đen", code: "#222" },
@@ -65,20 +65,20 @@ const products = [
         name: "Quần dài Huli",
         description: "Quần dài phong cách trẻ.",
         price: 480000,
-        image: "https://i.imgur.com/LRTlCtB.png",
+        image: "images/behold.jpg",
         group: "Quần dài",
         details: "Chất liệu: Kaki, Màu: Đen, Nâu, Be.",
         quantityDetails: {
-            "Be": {XL: 4, XXL: 7, XXXL: 8},
-            "Đen": {XL: 5, XXL: 6, XXXL: 3},
-            "Nâu": {XL: 2, XXL: 2, XXXL: 6}
+            "Be": {XL: 100, XXL: 100, XXXL: 100},
+            "Đen": {XL: 100, XXL: 100, XXXL: 100},
+            "Nâu": {XL: 100, XXL: 100, XXXL: 100}
         },
-        quantity: 12,
+        quantity: 100,
         images: [
-            "https://i.imgur.com/LRTlCtB.png",
-            "https://i.imgur.com/1uQW5Q4.jpg",
-            "https://i.imgur.com/2r8h4n5.jpg",
-            "https://i.imgur.com/9A4m0yQ.jpg"
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg"
         ],
         colors: [
             { name: "Be", code: "#e5d7c0" },
@@ -94,19 +94,19 @@ const products = [
         name: "Quần dài Huli",
         description: "Quần dài thể thao.",
         price: 399000,
-        image: "https://i.imgur.com/nt7yYV5.png",
+        image: "images/behold.jpg",
         group: "Quần dài",
         details: "Chất liệu: Thun, Màu: Đen, Ghi.",
         quantityDetails: {
-            "Đen": {XL: 7, XXL: 8, XXXL: 4},
-            "Ghi": {XL: 6, XXL: 7, XXXL: 6}
+            "Đen": {XL: 100, XXL: 100, XXXL: 100},
+            "Ghi": {XL: 100, XXL: 100, XXXL: 100}
         },
-        quantity: 19,
+        quantity: 100,
         images: [
-            "https://i.imgur.com/nt7yYV5.png",
-            "https://i.imgur.com/sjZQv8n.jpg",
-            "https://i.imgur.com/8zxgX7U.jpg",
-            "https://i.imgur.com/R5oW4rO.jpg"
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg"
         ],
         colors: [
             { name: "Đen", code: "#222" },
@@ -121,19 +121,19 @@ const products = [
         name: "Quần dài Huli",
         description: "Quần dài công sở.",
         price: 550000,
-        image: "https://i.imgur.com/s3b7wF6.png",
+        image: "images/behold.jpg",
         group: "Quần dài",
         details: "Chất liệu: Vải Âu, Màu: Xám, Đen.",
         quantityDetails: {
-            "Xám": {XL: 3, XXL: 5, XXXL: 2},
-            "Đen": {XL: 2, XXL: 4, XXXL: 4}
+            "Xám": {XL: 100, XXL: 100, XXXL: 100},
+            "Đen": {XL: 100, XXL: 100, XXXL: 100}
         },
-        quantity: 10,
+        quantity: 100,
         images: [
-            "https://i.imgur.com/s3b7wF6.png",
-            "https://i.imgur.com/aF9vGRp.jpg",
-            "https://i.imgur.com/3V4kF0n.jpg",
-            "https://i.imgur.com/tk5g9o8.jpg"
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg"
         ],
         colors: [
             { name: "Xám", code: "#888" },
@@ -148,20 +148,20 @@ const products = [
         name: "Quần đùi Huli",
         description: "Quần đùi nam thoải mái.",
         price: 330000,
-        image: "https://i.imgur.com/9Wfukqu.png",
+        image: "images/behold.jpg",
         group: "Quần đùi",
         details: "Chất liệu: Cotton, Màu sắc trẻ trung.",
         quantityDetails: {
-            "Trắng": {XL: 9, XXL: 10, XXXL: 6},
-            "Đen": {XL: 7, XXL: 8, XXXL: 7},
-            "Xanh": {XL: 8, XXL: 7, XXXL: 10}
+            "Trắng": {XL: 100, XXL: 100, XXXL: 100},
+            "Đen": {XL: 100, XXL: 100, XXXL: 100},
+            "Xanh": {XL: 100, XXL: 100, XXXL: 100}
         },
-        quantity: 25,
+        quantity: 100,
         images: [
-            "https://i.imgur.com/9Wfukqu.png",
-            "https://i.imgur.com/kYt4w3d.jpg",
-            "https://i.imgur.com/2w5n6jR.jpg",
-            "https://i.imgur.com/kZ7H2iS.jpg"
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg"
         ],
         colors: [
             { name: "Trắng", code: "#f3f3f3" },
@@ -177,19 +177,19 @@ const products = [
         name: "Quần đùi Huli",
         description: "Quần đùi nam thể thao năng động.",
         price: 340000,
-        image: "https://i.imgur.com/5sZ9ZP7.png",
+        image: "images/behold.jpg",
         group: "Quần đùi",
         details: "Chất vải mềm, thoáng mát.",
         quantityDetails: {
-            "Đen": {XL: 6, XXL: 7, XXXL: 3},
-            "Xám": {XL: 4, XXL: 6, XXXL: 6}
+            "Đen": {XL: 100, XXL: 100, XXXL: 100},
+            "Xám": {XL: 100, XXL: 100, XXXL: 100}
         },
-        quantity: 16,
+        quantity: 100,
         images: [
-            "https://i.imgur.com/5sZ9ZP7.png",
-            "https://i.imgur.com/4f2dN5F.jpg",
-            "https://i.imgur.com/6Q8lV8o.jpg",
-            "https://i.imgur.com/bC5Wn0m.jpg"
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg"
         ],
         colors: [
             { name: "Đen", code: "#222" },
@@ -204,19 +204,19 @@ const products = [
         name: "Quần đùi Huli",
         description: "Quần đùi jean nam trẻ trung.",
         price: 370000,
-        image: "https://i.imgur.com/V1j0Y7B.png",
+        image: "images/behold.jpg",
         group: "Quần đùi",
         details: "Chất liệu: Denim, Form ngắn trẻ trung.",
         quantityDetails: {
-            "Xanh": {XL: 7, XXL: 5, XXXL: 5},
-            "Đen": {XL: 2, XXL: 3, XXXL: 3}
+            "Xanh": {XL: 100, XXL: 100, XXXL: 100},
+            "Đen": {XL: 100, XXL: 100, XXXL: 100}
         },
-        quantity: 13,
+        quantity: 100,
         images: [
-            "https://i.imgur.com/V1j0Y7B.png",
-            "https://i.imgur.com/3g6wV9D.jpg",
-            "https://i.imgur.com/Z0WvQ9P.jpg",
-            "https://i.imgur.com/vC8wH1q.jpg"
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg"
         ],
         colors: [
             { name: "Xanh", code: "#344266" },
@@ -231,19 +231,19 @@ const products = [
         name: "Quần đùi Huli",
         description: "Quần đùi thể thao nam.",
         price: 290000,
-        image: "https://i.imgur.com/0y8Ftya.png",
+        image: "images/behold.jpg",
         group: "Quần đùi",
         details: "Chất liệu: Poly co giãn, thấm hút mồ hôi.",
         quantityDetails: {
-            "Đen": {XL: 10, XXL: 10, XXXL: 10},
-            "Cam": {XL: 2, XXL: 2, XXXL: 2}
+            "Đen": {XL: 100, XXL: 100, XXXL: 100},
+            "Cam": {XL: 100, XXL: 100, XXXL: 100}
         },
-        quantity: 30,
+        quantity: 100,
         images: [
-            "https://i.imgur.com/0y8Ftya.png",
-            "https://i.imgur.com/7K9sQ8f.jpg",
-            "https://i.imgur.com/9R5wZ3y.jpg",
-            "https://i.imgur.com/2qW6n8T.jpg"
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg"
         ],
         colors: [
             { name: "Đen", code: "#222" },
@@ -258,25 +258,49 @@ const products = [
         name: "Quần đùi Huli",
         description: "Quần đùi vải đũi nam mặc nhà mát.",
         price: 310000,
-        image: "https://i.imgur.com/fzB6sJp.png",
+        image: "images/behold.jpg",
         group: "Quần đùi",
         details: "Chất liệu: Đũi tự nhiên, siêu nhẹ.",
         quantityDetails: {
-            "Trắng": {XL: 2, XXL: 2, XXXL: 2},
-            "Đen": {XL: 2, XXL: 1, XXXL: 1},
-            "Xanh": {XL: 1, XXL: 1, XXXL: 0}
+            "Trắng": {XL: 100, XXL: 100, XXXL: 100},
+            "Đen": {XL: 100, XXL: 100, XXXL: 100},
+            "Xanh": {XL: 100, XXL: 100, XXXL: 100}
         },
-        quantity: 8,
+        quantity: 100,
         images: [
-            "https://i.imgur.com/fzB6sJp.png",
-            "https://i.imgur.com/xW2dV4z.jpg",
-            "https://i.imgur.com/8K7lT4w.jpg",
-            "https://i.imgur.com/5Q7bJ8v.jpg"
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg",
+            "images/behold.jpg"
         ],
         colors: [
             { name: "Trắng", code: "#f3f3f3" },
             { name: "Đen", code: "#222" },
             { name: "Xanh", code: "#344266" }
+        ],
+        sizes: ["XL", "XXL", "XXXL"],
+        defaultColor: 0,
+        defaultSize: 1
+    },
+    {
+        id: 11,
+        name: "Quần short Huli mới",
+        description: "Quần short mẫu mới, thoáng mát.",
+        price: 360000,
+        image: "images/behold.jpg",
+        group: "Quần đùi",
+        details: "Chất liệu: Cotton, màu sắc trẻ trung.",
+        quantityDetails: {
+            "Đen": {XL: 100, XXL: 100, XXXL: 100},
+            "Xám": {XL: 100, XXL: 100, XXXL: 100}
+        },
+        quantity: 100,
+        images: [
+            "images/behold.jpg"
+        ],
+        colors: [
+            { name: "Đen", code: "#222" },
+            { name: "Xám", code: "#888" }
         ],
         sizes: ["XL", "XXL", "XXXL"],
         defaultColor: 0,
